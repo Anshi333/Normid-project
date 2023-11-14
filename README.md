@@ -1,3 +1,3 @@
 # Normid-project
 
-https://www.figma.com/file/QxuMKgq3TlaEF2OmD0Bs9I/Cosmicwood?type=design&node-id=0%3A1&mode=design&t=bVgYn6GbE1hq0ShW-1
+https://www.figma.com/proto/QxuMKgq3TlaEF2OmD0Bs9I/Cosmicwood?type=design&node-id=33-149&t=rQOsAgdPDAX3HHEa-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A149&show-proto-sidebar=1&mode=design
